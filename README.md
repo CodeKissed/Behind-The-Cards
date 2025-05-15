@@ -70,7 +70,7 @@ The dataset spans from **2010 to 2019** and includes:
 
 ## 🚨 Fraud Case Example
 
-Two top spenders conducted high-value transactions in **distant geographic locations within a short time window**—an unlikely scenario for a single legitimate user. These cases may warrant review by a fraud risk team.
+Two top spenders conducted transactions in **distant geographic locations within a short time window**—an unlikely scenario for a single legitimate user. These cases may warrant review by a fraud risk team.
 
 ---
 
@@ -79,18 +79,17 @@ Two top spenders conducted high-value transactions in **distant geographic locat
 Key charts include:
 
 - Card Count Distribution
-- Monthly Spend by Card Bin
+- Monthly Spend and Transactions 
 - MCC Spend Comparison
-- High-Income Users by Gender & Card Count
-- Suspicious Transaction Maps
+- High Income Useres & Card Count
+- Suspicious Transactions
 
-See full slides [here:(https://www.canva.com/design/DAGmz39dzx8/hMsHnhsICrkRvahy_0jIOQ/edit?utm_content=DAGmz39dzx8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
-
+See full slides [here](https://www.canva.com/design/DAGmz39dzx8/hMsHnhsICrkRvahy_0jIOQ/edit?utm_content=DAGmz39dzx8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 ## 🔗 Links
 
-- 📊 [Project Slide Deck (PDF)](link)
-- 💻 [Full Code on GitHub](https://github.com/CodeKissed)
+- 💻 [Full Python Code on GitHub](https://github.com/CodeKissed/Behind-The-Cards/tree/main/Python)
+- 💻 [Full SQL Queries on GitHub](https://github.com/CodeKissed/Behind-The-Cards/blob/main/SQL/queries.sql)
 - 🌐 [Kaggle Dataset](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
 - 🧠 Author: [Andromeda Canete-Borys](mailto:andromeda@canete.me)
 
