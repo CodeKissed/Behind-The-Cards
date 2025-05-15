@@ -57,11 +57,11 @@ The dataset spans from **2010 to 2019** and includes:
 - **Card Ownership**:  
   > 81% of users have 1–4 cards; only 1% have 8 or more.
 
-- **Spending Patterns**:  
-  > Weak but statistically significant correlation between card count and spending/transaction volume (r ≈ 0.12–0.17).
+- **Spending and Transaction Volume Patterns**:  
+  > Weak but statistically significant positive correlation between card count and spending/transaction volume. Transaction volume and spending tend to slightly rise with more cards.
 
 - **Income vs. Card Count**:  
-  > High earners don't necessarily own more cards. Among $100K+ earners, **females earn 29% more than males** on average.
+  > Weak but statistically significant negative correlation between card count and spending/transaction volume. The number of cards per user do not necessarily increase as annual income increases.
 
 - **Risk Signal – MCC 7995 (Betting & Casinos)**:  
   > Exceptionally high discretionary spending appears in the Top 10 average spend  by merchant code for 8–9 cardholders. Geographic distance between some transactions suggest potential **fraud or account misuse**.
