@@ -39,7 +39,7 @@ The dataset spans from **2010 to 2019** and includes:
 - Large transaction data (>13M rows) was cleaned using Python (Pandas).
 - Users were binned into **card count groups** (1–4, 5–7, 8+).
 - SQL scripts were used to join datasets, extract insights, and identify patterns based on MCCs and transaction behavior.
-- Statistical tests (e.g., Pearson correlation) were run in Python to measure relationships.
+- Statistical tests (e.g., Pearson correlation) were run in Python to evaluate relationships.
 
 ---
 
