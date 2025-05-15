@@ -64,7 +64,7 @@ The dataset spans from **2010 to 2019** and includes:
   > High earners don't necessarily own more cards. Among $100K+ earners, **females earn 29% more than males** on average.
 
 - **Risk Signal – MCC 7995 (Betting & Casinos)**:  
-  > High discretionary spend found only in 8–9 cardholders. Geographic transaction anomalies suggest potential **fraud or account misuse**.
+  > Exceptionally high discretionary spending appears in the Top 10 average spend  by merchant code for 8–9 cardholders. Geographic distance between some transactions suggest potential **fraud or account misuse**.
 
 ---
 
@@ -79,9 +79,9 @@ Two top spenders conducted transactions in **distant geographic locations within
 Key charts include:
 
 - Card Count Distribution
-- Monthly Spend and Transactions 
+- Monthly Spend and Transactions by Card Count
 - MCC Spend Comparison
-- High Income Useres & Card Count
+- Top 25% Income Tier & Card Count
 - Suspicious Transactions
 
 See full slides [here](https://www.canva.com/design/DAGmz39dzx8/hMsHnhsICrkRvahy_0jIOQ/edit?utm_content=DAGmz39dzx8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
