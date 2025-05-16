@@ -2,6 +2,7 @@
 
 A deep-dive into user spending behavior, card ownership patterns, and potential fraud signals, based on a decade of transaction data. This project uses SQL, Python, and Excel to perform exploratory data analysis (EDA) on over **13 million financial records** provided by Caixabank Tech during the 2024 AI Hackathon.
 
+See full slides [here](https://www.canva.com/design/DAGmz39dzx8/hMsHnhsICrkRvahy_0jIOQ/edit?utm_content=DAGmz39dzx8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 
 ## 📌 Objective
@@ -84,7 +85,6 @@ Key charts include:
 - Top 25% Income Tier & Card Count
 - Suspicious Transactions
 
-See full slides [here](https://www.canva.com/design/DAGmz39dzx8/hMsHnhsICrkRvahy_0jIOQ/edit?utm_content=DAGmz39dzx8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 ## 🔗 Links
 
